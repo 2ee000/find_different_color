@@ -1,0 +1,12 @@
+* {
+  background-image: url('../assets/instagram.png');
+  background-image: url('../assets/X.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  position: inherit;
+  position: initial;
+  position: sticky;
+  bottom: 0px;
+  color: rgb(221, 221, 221);
+}
